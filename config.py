@@ -69,7 +69,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/unb_info")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kira_update")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unb_support")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
@@ -116,8 +116,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION", "BQF1d1AAafj0sFjd7ywihWSQPUB5F1lbjZFfeLonQin_E95aJFkZX7xPqtDQGF3dV02Es9kxf5O-vlta9SOyNiLtc60UrpI3n6F12EcqzVgUoOz1r9LmNUaBah641SdQihvq0hM31_nZRfgFOI3YccFZuB_ZyoumWgG2LgBgJ-dhKuF7AJV1Hoo7yE_50srus4SHq-LcqSb0QtelWWJIdRwUS6kEeJmGIp33TZFpJrjAR4v3-6f7NfB5_3sJ-3fPTDj8HoHnw93XnMuJyPLlrQmsrXPqIH1hZFcJ8dQ0RO-suJDeObhBBw0XeY73xO6y8bUD03L6MGduoOJNTyKEuh1iHnTdIAAAAAGYBb4NAA")
+STRING2 = getenv("STRING_SESSION2", "BQF64-sAppV4ElYT8r6vodSA4EEGA4119jXaATGHj7zmNIblJivEyJ4uF5yNWjexYbkplKPy0g0ID06a1INOww1Pw_PryyoPftnyoubncEoAvwwwgVNngM8RmkltiwB4QcRWKYKsD6_Q3q39PV1HgfCJFZxJHWjZxY6stQlOP8XzIxQAMxg20Mmu02n8R54Z3PTDNpFCJrCwCnbaSM4u8MRl7CzVz0x2bsWdljMqC7_bvL24054dwVD0x0lqHD-m0lBlcDzsZErW70otu8YeuFr-Ji3QDsobkPZMiaYKjmZrd_9-hHedQ59gAg_E1W0K8XvF4Jqhgo5C0VJ3P5TKUtICmCBQAAAAG0EGmkAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
